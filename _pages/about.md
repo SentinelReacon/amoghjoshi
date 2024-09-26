@@ -3,6 +3,5 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Hello everyone, I am Amogh Joshi, a passionate data scientist pursuing post graduation in artificial intelligence from Indian Institute of Technology Kharagpur. I did my undergraduate from Indian Institute of Technology Bhilai in Data Science and Artificial Intelligence. 
+I am very passionate about studying state of the art research in the field of artificial intelligence and also the mathematics which drives all that research. I am particulary interested in statistics and statistical modeling. 
